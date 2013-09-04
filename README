@@ -1,4 +1,4 @@
-PHP/JQuery/SQL Database Search Front End
+PHP/Javascript/SQL Database Search Front End
 ========================================
 
 Demo Link: 
@@ -8,7 +8,7 @@ http://www.loualicegary.com/TEPS/index4.php
 
 Description: 
 
-This repository contains the files for a database search front-end my writers use. The back-end database is SQL, and I¡¯ve written a PHP script with JQuery plugins to provide a method for running keyword searches. Try doing a search yourself -- I suggest common, but not too common, words like ¡°vacation¡± or ¡°nutrition,¡± as I¡®ve coded the script not to return results in cases where there are over 100. 
+This repository contains the files for a database search front-end my writers use. The back-end database is SQL, and Iï¿½ï¿½ve written a PHP script with JQuery plugins to provide a method for running keyword searches. Try doing a search yourself -- I suggest common, but not too common, words like ï¿½ï¿½vacationï¿½ï¿½ or ï¿½ï¿½nutrition,ï¿½ï¿½ as Iï¿½ï¿½ve coded the script not to return results in cases where there are over 100. 
 
 
 
